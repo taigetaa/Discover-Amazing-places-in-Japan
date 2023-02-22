@@ -396,6 +396,7 @@ textarea {
 }
 html {
     box-sizing: border-box;
+    font-size: 62.5%;
 }
 *, *::before, *::after{
     box-sizing:inherit;
@@ -404,7 +405,7 @@ html {
 body {
     font-family: 'Lato';
     font-style: normal;
-    font-size: 1rem;
+    font-size: 1.6rem;
     line-height: 1.20;
     font-weight: normal;
     color: #102746;
@@ -448,7 +449,7 @@ img {
 }
 
 .header__link {
-    font-size: 1.2rem;
+    font-size: 1.8rem;
     line-height: 2;
     color: white;
     text-decoration: none;
@@ -469,7 +470,7 @@ img {
 .intro__title {
     max-width: 620px;
     font-weight: 500;
-    font-size: 3rem;
+    font-size: 5rem;
     line-height: 1.3;
     color: #FFFFFF;
     margin-bottom: 22px;
@@ -478,7 +479,7 @@ img {
 .intro__subtitle {
     color: white;
     max-width: 550px;
-    font-size: 1rem;
+    font-size: 1.6rem;
     line-height: 1.7;
     margin-bottom: 60px;
 }
@@ -498,13 +499,13 @@ img {
     padding-left: 40px;
     padding-bottom: 22px;
     font-weight: 500;
-    font-size: 1rem;
+    font-size: 1.8rem;
     color: white;
 }
 
 .search-form__field::placeholder {
     font-weight: 500;
-    font-size: 1.2rem;
+    font-size: 1.8rem;
     color: white;
 }
 
@@ -512,7 +513,7 @@ img {
     padding: 15px 40px;
     text-transform: uppercase;
     font-weight: 500;
-    font-size: 1.5rem;
+    font-size: 2.4rem;
     color: white;
     background: #1B7DFF;
     border: 0;
@@ -541,11 +542,11 @@ img {
 .beneifits__title {
     width: 100%;
     font-weight: 500;
-    font-size: 2.2rem;
+    font-size: 3.5rem;
     line-height: 1.4;
     padding: 90px;
     position: absolute;
-    top: 0;
+    top: 1px;
     left: 0;
     transform: translateY(-100%);
     background: white;
@@ -574,14 +575,14 @@ img {
 
 .benefits__card-title {
     font-weight: 500;
-    font-size: 1.3rem;
+    font-size: 1.8rem;
     line-height: 2.4;
     margin-bottom: 26px;
 }
 
 .benefits__card-desc {
     font-weight: 400;
-    font-size: 1rem;
+    font-size: 1.6rem;
     line-height: 1.5;
     margin-bottom: 40px;
 }
@@ -590,7 +591,7 @@ img {
     display: inline-block;
     padding-right: 60px;
     font-weight: 400;
-    font-size: 0.9rem;
+    font-size: 1.6rem;
     line-height: 2.2;
     color: #006DFE;
     text-decoration: none;
