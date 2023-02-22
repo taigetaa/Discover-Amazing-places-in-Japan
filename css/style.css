@@ -546,7 +546,7 @@ img {
     line-height: 1.4;
     padding: 90px;
     position: absolute;
-    top: 0;
+    top: 1px;
     left: 0;
     transform: translateY(-100%);
     background: white;
