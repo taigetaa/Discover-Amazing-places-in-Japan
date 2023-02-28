@@ -452,7 +452,7 @@ img {
     width: 100%;
     transition: .2s linear;
     padding-bottom: 20px;
-    z-index: 999;
+    z-index: 5;
 }
 .header_active{
     background: #0E1D28;
